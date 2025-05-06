@@ -1,1 +1,1 @@
-console.log(stringTwo.length);
+console.log(balance);
