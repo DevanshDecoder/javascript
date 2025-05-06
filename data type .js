@@ -22,7 +22,7 @@ let myObject={
     // tghe content written inside the curly braces known as object
 }
 
-let myFunction =Function()
+let myFunction =Function( )
     // the content written inside the function keyword is known as the content of the function
 
 
