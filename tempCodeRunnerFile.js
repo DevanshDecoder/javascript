@@ -1,1 +1,1 @@
-console.log(balance);
+console.log(myarr.index(3));
